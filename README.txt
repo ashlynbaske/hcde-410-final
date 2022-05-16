@@ -1,0 +1,1 @@
+Short summary of project idea: Investigate how country data related to a country's general well-being is predictive of the success of related small wiki language projects. There are certain measures of social and financial prosperity that alledgedly predict the well-being and quality of life in a country.
