@@ -1,5 +1,10 @@
-This repository contains work for two different projects. Files/notebooks starting with "wiki" are part of my original project idea, and files/notebooks starting with "ukraine" are part of my new project idea.
+This repository contains work for two different projects. Files/notebooks starting with "wiki" are part of an unfinished project idea, and files/notebooks starting with "Ukr" are part of the project I am submitting as my HCDE410 final.
 
-Short summary of wiki project idea: Investigate how country data related to a country's general well-being is predictive of the success of related small wiki language projects. There are certain measures of social and financial prosperity that alledgedly predict the well-being and quality of life in a country.
+Short summary of wiki project idea: Investigate how country data related to a country's general well-being is predictive of the success of related small wiki language projects. There are certain measures of social and financial prosperity that alledgedly predict the well-being and quality of life in a country. This project had to be abandoned because there aren't good measures of how vulnerable a Wikipedia language project is to disinformation - more research would have to be done in this area before an analysis of the correlation between disinformation risk and geopolitical factors is possible.
 
-Short summary of Ukraine project idea: Investigate how the Russian government uses disinformation in the Russia-Ukraine war/conflict and the events leading up to it.
+Short summary of Ukraine project idea: Investigate how the Russian government uses disinformation in the Russia-Ukraine war/conflict and the events leading up to it. More details about the motivation for this project, the data used, and the findings are available in the notebook called "ukr-report."
+
+Abstract for the Ukraine Project:
+I sought to understand if the output of pro-Kremlin disinformation about Ukraine was correlated to the Russo-Ukrainian war, and Russia-Ukraine relations leading up to it. I generated an interactive visualization in which the viewer can compare the volume of disinformation, the keywords present in the disinformation, and the real-world events happening in the time frame. I found that while these two factors do appear to be somewhat related, there is not a clear correlation or causation that one can take away by looking at this visualization.
+
+Data used: https://euvsdisinfo.eu/disinformation-cases/?disinfo_keywords[]=77547&date=&per_page= (open source).
